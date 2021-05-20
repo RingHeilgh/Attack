@@ -1,0 +1,18 @@
+
+{
+  "title": "The Dreamlike Girl Started Her Fierce Attack",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "https://cdn.discordapp.com/attachments/843531995110965338/845050095954165800/IMG_20210521_042814.jpg",
+  "chapters": {
+    "1": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<RingHeilgh>": "/proxy/api/imgur/chapter/4YGrLMH/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
